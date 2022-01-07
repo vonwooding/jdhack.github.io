@@ -11,4 +11,4 @@ J.D. Hack is an anonymous discussion forum for law students. You can find more i
 5. File your first "Complaint" by posting a new discussion thread
 
 ### View your "Docket" to see threads that you have participated in.
-It's that simple. Ask any question, at any time, and recieve anonymous answers. 
+It's that simple. Ask any question, at any time, and recieve anonymous answers from your colleagues.
