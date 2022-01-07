@@ -1,4 +1,5 @@
 # J.D. Hack
+The anonymous Q&A forum for law students
 
 ## Welcome to J.D. Hack
 
