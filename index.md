@@ -1,4 +1,5 @@
 ## Welcome to J.D. Hack
+**A btcjd.org product**
 
 J.D. Hack is an anonymous discussion forum for law students. You can find more information about the application located in the [J.D. Hack Docs](https://vonwooding.gitbook.io/jdhack/), which explain the problems that lead to the creation of J.D. Hack. 
 
